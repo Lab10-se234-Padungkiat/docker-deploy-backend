@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   frontend:
-    image: padungkiat/234-deploylab-backend-prod:latest
+    image: padungkiat/234-deploylab-backend:latest
     ports:
       - "9998:80"
